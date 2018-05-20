@@ -6,6 +6,7 @@ lastmod = 2018-01-02
 draft = false
 tags = ["crytomonnaies", "économie numérique", "blockchain", "bitcoin", "crytocurrencies", "digital banking"]
 summary = "Le Bitcoin, cette cryptomonnaie qui constitue une vraie tendance lourde depuis 2015, a connu l&#039;une des plus importantes baisses depuis sa création."
+abstract = "Le Bitcoin, cette cryptomonnaie qui constitue une vraie tendance lourde depuis 2015, a connu l&#039;une des plus importantes baisses depuis sa création."
 [header]
 image = "headers/bitcoin.jpg"
 +++

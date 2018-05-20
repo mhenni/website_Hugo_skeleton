@@ -6,6 +6,7 @@ lastmod = 2018-04-27
 draft = false
 tags = ["Digital Transformation", "Digital Marketing", "IT Governance", "Change Management", "Digitalisation", "Projets Digital", "Leadership Digital"]
 summary = "En l’absence d’un partenariat solide entre l’IT et le Marketing, la dynamique de transformation digitale risque de se solder par un échec."
+abstract = "En l’absence d’un partenariat solide entre l’IT et le Marketing, la dynamique de transformation digitale risque de se solder par un échec."
 [header]
 image = "headers/IT_marketing_digital_transformation.jpg"
 +++

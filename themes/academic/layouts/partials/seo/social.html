@@ -1,6 +1,6 @@
 <!-- Google+ -->
 	<meta itemprop="name" content="Majdi MHENNI">
-	<meta itemprop="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}" />
+	<meta itemprop="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Params.abstract }}{{ end }}{{ end }}" />
 	<meta itemprop="image" content="https://majdimhenni.tn/img/portrait.jpg">
 	<link rel="author" href="https://plus.google.com/u/1/+MajdiMh%C3%A9nniprofil" />
 	<link rel="publisher" href="https://plus.google.com/u/1/+MajdiMh%C3%A9nniprofil" />

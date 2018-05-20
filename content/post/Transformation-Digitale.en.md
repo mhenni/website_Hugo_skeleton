@@ -6,6 +6,7 @@ lastmod = 2018-04-27
 draft = false
 tags = []
 summary = "The the formation of the IT - Marketing or CMO - CTO couple thus becomes a necessity for carrying out digital transformation projects."
+abstract = "The the formation of the IT - Marketing or CMO - CTO couple thus becomes a necessity for carrying out digital transformation projects."
 [header]
 image = "headers/IT_marketing_digital_transformation.jpg"
 +++
