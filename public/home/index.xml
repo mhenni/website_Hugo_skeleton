@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Majdi MHENNI</title>
+    <link>https://majdimhenni.tn/home/</link>
+    <description>Recent content in Homes on Majdi MHENNI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Majdi Mhenni - 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://majdimhenni.tn/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic</title>
+      <link>https://majdimhenni.tn/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://majdimhenni.tn/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
+(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://majdimhenni.tn/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://majdimhenni.tn/home/about/</guid>
+      <description>Bigraphie Professionnel du digital depuis 2008, j’ai exercé comme chercheur (universitaire), chef de projet, consultant en transformation digitale et CCO d’un groupe leader dans le domaine des technologies de l’information.
+Les offres et projets sur lesquels j&amp;rsquo;interviens concernent les problématiques de digitalisation dans le métier des télécommunications, la banque, l&amp;rsquo;automobile, le secteur public ainsi que la grande distribution.</description>
+    </item>
+    
+    <item>
+      <title>Posts récents</title>
+      <link>https://majdimhenni.tn/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://majdimhenni.tn/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://majdimhenni.tn/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://majdimhenni.tn/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts Récents</title>
+      <link>https://majdimhenni.tn/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://majdimhenni.tn/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Training</title>
+      <link>https://majdimhenni.tn/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://majdimhenni.tn/home/teaching/</guid>
+      <description>Le mentoring et l&amp;rsquo;accompagnement digital que je dispense n&amp;rsquo;est pas standardisé, il s&amp;rsquo;agit plutôt de modules adhocs, conçus et/ou personnalisés pour les besoins spécifiques des organisations.
+A titre indicatif, voici quelques modules de formation et de coaching, parmi ceux que j&amp;rsquo;ai pu dispenser récemment :
+Digital Empowerment Intégrer la transformation digitale : e-marketing, e-sales &amp;amp; e-care
+Customer eXperience Analyse, conception et optimisation continue de l&amp;rsquo;expérience client (CX) sur les Digital Channels</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://majdimhenni.tn/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://majdimhenni.tn/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://majdimhenni.tn/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://majdimhenni.tn/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

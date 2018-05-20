@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Majdi MHENNI</title>
+    <link>https://majdimhenni.tn/en/post/</link>
+    <description>Recent content in Posts on Majdi MHENNI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Majdi Mhenni - 2018</copyright>
+    <lastBuildDate>Sat, 20 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://majdimhenni.tn/en/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Digital Transformation : A war between IT and Marketing ?</title>
+      <link>https://majdimhenni.tn/en/post/transformation-digitale/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://majdimhenni.tn/en/post/transformation-digitale/</guid>
+      <description>Usually, the digital transformation is a matter of customer experience: it takes digital for the customer and the digital can generate more revenue whether through direct sales channels or by offering additional value to customers (CRM &amp;amp; omincanal challenges: self-care, online assistance, customer journey, digital in store &amp;hellip;). The the formation of the IT - Marketing or CMO - CTO couple thus becomes a necessity for carrying out digital transformation projects.</description>
+    </item>
+    
+  </channel>
+</rss>

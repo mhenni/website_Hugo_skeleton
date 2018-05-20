@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Majdi MHENNI</title>
+    <link>https://majdimhenni.tn/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Majdi MHENNI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Majdi Mhenni - 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://majdimhenni.tn/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rôle de la communication digitale dans le développement économique Tuniso-Africain</title>
+      <link>https://majdimhenni.tn/talk/africandigitaldays/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://majdimhenni.tn/talk/africandigitaldays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitalisation &amp; eGOV</title>
+      <link>https://majdimhenni.tn/talk/ps2d/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://majdimhenni.tn/talk/ps2d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eHealth Trends</title>
+      <link>https://majdimhenni.tn/talk/ehealth/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://majdimhenni.tn/talk/ehealth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
